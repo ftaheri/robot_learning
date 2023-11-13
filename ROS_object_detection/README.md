@@ -152,5 +152,6 @@ wall. The landmark detection for this object didn’t work well. <br>
   <img src="https://github.com/ftaheri/robot_learning/assets/44457498/a57c5550-7b45-4a44-ab69-564ae968cdd2" width="30%" /> 
   <img src="https://github.com/ftaheri/robot_learning/assets/44457498/56b24edc-30bc-4e51-8902-b1a70946b65f" width="30%" /> 
 </p>
+
 ![image](https://github.com/ftaheri/robot_learning/assets/44457498/aac424bd-700b-4ca5-8321-422a3b5107e8)
 
