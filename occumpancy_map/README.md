@@ -88,10 +88,10 @@ However, it is not that different in general.
 I also added a threshold of 100, so that the `map_` is not increased or decreased until overflows.
 Verifying the code works for a stationary sensor:
 To verify that the code works, the first image is what the map shows using a stationary sensor and
-the second one is what the same sensor shows after adding another object by gazebo.\n
+the second one is what the same sensor shows after adding another object by gazebo. <br>
 ![image](https://github.com/ftaheri/robot_learning/assets/44457498/4fa8d86e-a67e-4b97-8e34-71bcdcd9197a)
 
 Verifying the code works for a non-stationary sensor:
 To verify that the mapper also works for a non-stationary sensor (using the transform lookup), the
-first image shows the map before undocking the robot and the second image shows it after undocking.\n
+first image shows the map before undocking the robot and the second image shows it after undocking. <br>
 ![image](https://github.com/ftaheri/robot_learning/assets/44457498/47a2cd65-7491-4fa5-9ae6-acfcec2ee32f)
