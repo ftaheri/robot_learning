@@ -141,16 +141,16 @@ close, the farther object depth is filtered out as outliers. <br>
 better in this scenario. (The bounding box image is more reliable than the other two because of the
 delay) <br>
 <p float="left">
-  <img src="https://github.com/ftaheri/robot_learning/assets/44457498/6010a41d-dde0-4af9-959e-f4893496c5fa width="30%" />
-  <img src="https://github.com/ftaheri/robot_learning/assets/44457498/1422e7b3-594e-47b3-b8dc-7b410da19944 width="30%" /> 
-  <img src="https://github.com/ftaheri/robot_learning/assets/44457498/06216443-04a8-4fd0-92dc-ba7ee5f90185 width="30%" /> 
+  <img src="https://github.com/ftaheri/robot_learning/assets/44457498/6010a41d-dde0-4af9-959e-f4893496c5fa" width="30%" />
+  <img src="https://github.com/ftaheri/robot_learning/assets/44457498/1422e7b3-594e-47b3-b8dc-7b410da19944" width="30%" /> 
+  <img src="https://github.com/ftaheri/robot_learning/assets/44457498/06216443-04a8-4fd0-92dc-ba7ee5f90185" width="30%" /> 
 </p>
 ** Third experiment: ** In this experiment we have somewhat a cluster, and one object is near the
 wall. The landmark detection for this object didn’t work well. <br>
 <p float="left">
   <img src="https://github.com/ftaheri/robot_learning/assets/44457498/d5b65835-f5fc-44e7-bed4-f77c20c75d7c" width="30%" />
   <img src="https://github.com/ftaheri/robot_learning/assets/44457498/a57c5550-7b45-4a44-ab69-564ae968cdd2" width="30%" /> 
-  <img src="https://github.com/ftaheri/robot_learning/assets/44457498/84711685-efef-4571-9b78-8dc831ae294" width="30%" /> 
+  <img src="https://github.com/ftaheri/robot_learning/assets/44457498/56b24edc-30bc-4e51-8902-b1a70946b65f" width="30%" /> 
 </p>
 ![image](https://github.com/ftaheri/robot_learning/assets/44457498/aac424bd-700b-4ca5-8321-422a3b5107e8)
 
