@@ -122,25 +122,35 @@ As can be seen, the algorithm does a good job detecting the landmark.
 ## near-wall objects
 We can see that the landmark falls near the wall as the filters cannot remove points with outlier
 depth. However, the coordinates on the other two dimensions are quite accurate.
+<p float="left">
+  <img src="https://github.com/ftaheri/robot_learning/assets/44457498/7799c1d5-3579-4dfa-b106-03588d66035b" width="30%" />
+  <img src="https://github.com/ftaheri/robot_learning/assets/44457498/33b2b714-41e2-43f0-9e7a-8c97dfd32281" width="30%" /> 
+  <img src="https://github.com/ftaheri/robot_learning/assets/44457498/080d70e1-6cd8-4ab0-a8bf-2bc8b4acc22c" width="30%" /> 
+</p>
 
 ## two objects (cluster)
 ** First experiment: ** It can be seen that since the point clouds for these two bounding boxes are really
 close, the farther object depth is filtered out as outliers. <br>
 
 <p float="left">
-  <img src="" width="50%" />
-  <img src="" width="50%" /> 
+  <img src="https://github.com/ftaheri/robot_learning/assets/44457498/aace3c21-c392-49ac-a675-df391a0420ba" width="30%" />
+  <img src="https://github.com/ftaheri/robot_learning/assets/44457498/90d8d9a4-337c-4498-a595-8739ed1425fa" width="30%" /> 
+  <img src="https://github.com/ftaheri/robot_learning/assets/44457498/c6e57426-9c08-4830-9707-96e7a6732469" width="30%" /> 
 </p>
 ** Second experiment: ** Although the bounding boxes are also really close, but the algorithm works
 better in this scenario. (The bounding box image is more reliable than the other two because of the
 delay) <br>
 <p float="left">
-  <img src="" width="50%" />
-  <img src="" width="50%" /> 
+  <img src="https://github.com/ftaheri/robot_learning/assets/44457498/6010a41d-dde0-4af9-959e-f4893496c5fa width="30%" />
+  <img src="https://github.com/ftaheri/robot_learning/assets/44457498/1422e7b3-594e-47b3-b8dc-7b410da19944 width="30%" /> 
+  <img src="https://github.com/ftaheri/robot_learning/assets/44457498/06216443-04a8-4fd0-92dc-ba7ee5f90185 width="30%" /> 
 </p>
 ** Third experiment: ** In this experiment we have somewhat a cluster, and one object is near the
 wall. The landmark detection for this object didn’t work well. <br>
 <p float="left">
-  <img src="" width="50%" />
-  <img src="" width="50%" /> 
+  <img src="https://github.com/ftaheri/robot_learning/assets/44457498/d5b65835-f5fc-44e7-bed4-f77c20c75d7c width="30%" />
+  <img src="https://github.com/ftaheri/robot_learning/assets/44457498/a57c5550-7b45-4a44-ab69-564ae968cdd2 width="30%" /> 
+  <img src="https://github.com/ftaheri/robot_learning/assets/44457498/84711685-efef-4571-9b78-8dc831ae294" width="30%" /> 
 </p>
+![image](https://github.com/ftaheri/robot_learning/assets/44457498/aac424bd-700b-4ca5-8321-422a3b5107e8)
+
