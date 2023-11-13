@@ -37,7 +37,7 @@ used in the landmark mapper.cpp file.
 # image_callback() function
 To calculate the robot movement, we first look up the transform from base_link to odom and then,
 convert it to Eigen T. T is a matrix which is used to calculate points in the base_link frame to
-odom frame; more specifically, $T ∗ current\_baselink = odom$. last_pose_ is the previous T; therefore,
+odom frame; more specifically, $T ∗ current/_baselink = odom$. last_pose_ is the previous T; therefore,
 $last\_pose\_ ∗ previous\_baselink = odom$.
  $$ last\_pose\_^{-1}*T*current\_baselink = last\_pose\_^{-1} ∗ odom = previous\_baselink $$
 Therefore, $last_pose\_^{-1}*T$ transfers a point from current-baselink to previous_baselink which is the movement matrix.
