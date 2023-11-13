@@ -148,8 +148,8 @@ delay) <br>
 ** Third experiment: ** In this experiment we have somewhat a cluster, and one object is near the
 wall. The landmark detection for this object didn’t work well. <br>
 <p float="left">
-  <img src="https://github.com/ftaheri/robot_learning/assets/44457498/d5b65835-f5fc-44e7-bed4-f77c20c75d7c width="30%" />
-  <img src="https://github.com/ftaheri/robot_learning/assets/44457498/a57c5550-7b45-4a44-ab69-564ae968cdd2 width="30%" /> 
+  <img src="https://github.com/ftaheri/robot_learning/assets/44457498/d5b65835-f5fc-44e7-bed4-f77c20c75d7c" width="30%" />
+  <img src="https://github.com/ftaheri/robot_learning/assets/44457498/a57c5550-7b45-4a44-ab69-564ae968cdd2" width="30%" /> 
   <img src="https://github.com/ftaheri/robot_learning/assets/44457498/84711685-efef-4571-9b78-8dc831ae294" width="30%" /> 
 </p>
 ![image](https://github.com/ftaheri/robot_learning/assets/44457498/aac424bd-700b-4ca5-8321-422a3b5107e8)
