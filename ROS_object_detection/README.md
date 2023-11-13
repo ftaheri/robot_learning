@@ -113,9 +113,10 @@ since it is difficult for the outlier removal to distinguish outliers from the u
 As can be seen, the algorithm does a good job detecting the landmark.
 
 <p float="left">
-  <img src="(https://github.com/ftaheri/robot_learning/assets/44457498/ce8f5744-2dc3-47ad-a5e9-7682f63ce196)" width="50%" />
+  <img src="https://github.com/ftaheri/robot_learning/assets/44457498/ce8f5744-2dc3-47ad-a5e9-7682f63ce196" width="50%" />
   <img src="https://github.com/ftaheri/robot_learning/assets/44457498/158dbfde-99de-421f-a2c8-769151d9042a" width="50%" /> 
 </p>
+
 ## near-wall objects
 We can see that the landmark falls near the wall as the filters cannot remove points with outlier
 depth. However, the coordinates on the other two dimensions are quite accurate.
