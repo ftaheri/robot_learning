@@ -3,7 +3,6 @@
 For testing purposes, it was better to run the execution file ”obj_detector” from obj_detector pack-
 age alone, instead of seeing the result on the launch file.
 Here is an example output:<br>
-![image](https://github.com/ftaheri/robot_learning/assets/44457498/b272efa4-d45c-4bf8-8a9f-5a733b766168) ![Screenshot from 2023-11-13 09-56-38](https://github.com/ftaheri/robot_learning/assets/44457498/273f495a-23c0-477a-ac12-1968dc9f40d5)
 
 <p float="left">
   <img src="https://github.com/ftaheri/robot_learning/assets/44457498/b272efa4-d45c-4bf8-8a9f-5a733b766168" width="30%" />
